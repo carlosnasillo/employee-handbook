@@ -1,6 +1,6 @@
 # Guide to Your Equity
 
-There are currently **4,662,658** shares of Lattice common stock outstanding.
+There are currently **TBD** shares of Lattice common stock outstanding.
 
 We have not undergone a 409A valuation to determine the current strike price of Lattice stock.
 

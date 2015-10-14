@@ -30,7 +30,7 @@ The first day can be intense, so if you’re feeling drained we can all cheer to
 
 ## The Basics about Lattice
 
-**Lattice is a values-driven company.** Hopefully you heard about this a lot during your interview process, but we take our values really seriously at Lattice and they guide the decisions we make here. You can read more about the [Lattice Values](https://github.com/carlosnasillo/handbook/blob/master/Lattice%20Values.md), but the short versions are:
+**Lattice is a values-driven company.** Hopefully you heard about this a lot during your interview process, but we take our values really seriously at Lattice and they guide the decisions we make here. You can read more about the [Lattice Values](https://github.com/latticemarkets/handbook/blob/master/Lattice%20Values.md), but the short versions are:
 
 * Be better today than yesterday
 

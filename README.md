@@ -41,7 +41,7 @@ If these policies sound like a place where you want to work, check out our jobs 
 * [Handbook Introduction](https://github.com/latticemarkets/employee-handbook/blob/master/Hiring%20Documents/Handbook%20Introduction.md)
 
 ## Onboarding Documents
-* [Welcome to Lattice](https://github.com/latticemarkets/employee-handbook/blob/master/Onboarding%20Documents/Welcome%20to%20Clef.md)
+* [Welcome to Lattice](https://github.com/latticemarkets/employee-handbook/blob/master/Onboarding%20Documents/Welcome%20to%20Lattice.md)
 * [Direct Reports](https://github.com/latticemarkets/employee-handbook/blob/master/Onboarding%20Documents/Direct%20Reports.md)
 * [Internal Transparency](https://github.com/latticemarkets/employee-handbook/blob/master/Onboarding%20Documents/Internal%20Transparency.md)
 * [Objectives and Key Results](https://github.com/latticemarkets/employee-handbook/blob/master/Onboarding%20Documents/Objectives%20and%20Key%20Results.md)

@@ -13,9 +13,9 @@ As a small company, we anticipate changes will be made to this handbook in the f
 
 
 
-_____________________________
+_____________________________   _____________________________   _____________________________
+                                
+C Nasillo                       P Hunn                          Z Etzioni
 
-B Byrne
-
-CEO of Lattice
+The Lattice Founders
 ```

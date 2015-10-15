@@ -1,6 +1,6 @@
 # Onboarding
 
-This document is about the general priorities and policies for how we as a company bring new employees onto the team. As a new person on the team, if you have questions about starting at Lattice, check out [Your First Day at Lattice](https://docs.google.com/document/d/1vvJfWH7lP808mAlKPr8JwUx0HvkiidzS_bkwB8wqA7M).
+This document is about the general priorities and policies for how we as a company bring new employees onto the team. As a new person on the team, if you have questions about starting at Lattice, check out [Your First Day at Lattice](https://github.com/latticemarkets/employee-handbook/blob/master/Onboarding%20Documents/Welcome%20to%20Lattice.md).
 
 We may also create specific onboarding recommendations for different roles in the future.
 
@@ -10,9 +10,9 @@ After a candidate accepts an offer to join Lattice, there are a few things that 
 
 1. Employment paperwork (these should end up in their Personnel folder, which should be shared with them in Google Drive)
 
-    1. Signed [Offer Letter](https://docs.google.com/document/d/1WUiY-mzKHJblc6MatcyZcqWqdnhe_D4fl0RvFXR7dz0)
+    1. Signed [Offer Letter](https://github.com/latticemarkets/employee-handbook/blob/master/Hiring%20Documents/Lattice%20Offer%20Letter.md)
 
-    2. Signed [Proprietary Information and Inventions Assignment Agreement](https://docs.google.com/document/d/10RI3ne-OLjU8cwuwVuYA3H_pQdEW1pioz1zIAJ3nOLY)
+    2. Signed [Proprietary Information and Inventions Assignment Agreement](https://github.com/latticemarkets/employee-handbook/blob/master/Hiring%20Documents/Employee%20Proprietary%20Information%20and%20Inventions%20Assignment%20Agreement.md)
 
 2. Creating accounts
 

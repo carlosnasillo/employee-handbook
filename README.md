@@ -67,8 +67,8 @@ If these policies sound like a place where you want to work, check out our jobs 
 * [Other Protected Absences](https://github.com/latticemarkets/employee-handbook/blob/master/Benefits%20and%20Perks/Other%20Protected%20Absences.md)
 
 ## Engineering Practices and Guidelines
-* [Scala - Guidelines]()
-* [Scala - Best Practices]()
-* [Javascript - Guidelines]()
-* [Javascript - Best Practices]()
-* [Unit Testing - Best Practices]()
+* [Scala - Guidelines](https://github.com/latticemarkets/employee-handbook/blob/master/Engineering%20Practices/Scala%20-%20Guidelines.md)
+* [Scala - Best Practices](https://github.com/latticemarkets/employee-handbook/blob/master/Engineering%20Practices/Scala%20-%20Best%20Practices.md)
+* [Javascript - Guidelines](https://github.com/latticemarkets/employee-handbook/blob/master/Engineering%20Practices/Javascript%20-%20Guidelines.md)
+* [Javascript - Best Practices](https://github.com/latticemarkets/employee-handbook/blob/master/Engineering%20Practices/Javascript%20-%20Best%20Practices.md)
+* [Unit Testing - Best Practices](https://github.com/latticemarkets/employee-handbook/blob/master/Engineering%20Practices/Unit%20Testing%20-%20Best%20Practices.md)

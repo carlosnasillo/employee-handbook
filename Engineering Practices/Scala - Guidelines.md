@@ -64,13 +64,6 @@ At Lattice we strive to make our code as beautifully designed and written as pos
     - [Prefer URI over URL](#misc_uri_url)
 
 
-
-## <a name='history'>Document History</a>
-- 2015-03-16: initial version
-- 2015-05-25: added [override Modifier](#override_modifier) section
-- 2015-08-23: downgraded the severity of some rules from "do NOT" to "avoid"
-
-
 ## <a name='syntactic'>Syntactic Style</a>
 
 ### <a name='naming'>Naming Convention</a>

@@ -22,7 +22,7 @@ If you are under a contract of employment issued with more than £2,000 of share
 
 Instead of giving you all of your options on day one, you get them over time. This process is called vesting and different companies offer vesting schedules of different lengths. If you had a basic 2 year vesting period, you would own a quarter of your shares after 6 months, half of your shares after a year, and all of it after 2 years.
 
-The industry standard right now is 4 years, but at Lattice, employees’ shres vests over 6 years. We offer much higher equity grants than the industry standard (about 2x in most cases), but it takes longer to earn them. This works out so that employees always come out ahead, even if they leave before their shares has fully vested, but helps us communicate that we’re looking for employees who want to build longer careers at Lattice.
+The industry standard right now is 4 years, but at Lattice, employees’ shares vests over 6 years. We offer much higher equity grants than the industry standard (about 2x in most cases), but it takes longer to earn them. This works out so that employees always come out ahead, even if they leave before their shares has fully vested, but helps us communicate that we’re looking for employees who want to build longer careers at Lattice.
 
 Vesting happens on a monthly basis (so you vest 1/72 of your options each month), but many vesting schedules include a cliff.
 

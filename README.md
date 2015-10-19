@@ -65,3 +65,10 @@ If these policies sound like a place where you want to work, check out our jobs 
 * [Sabbatical](https://github.com/latticemarkets/employee-handbook/blob/master/Benefits%20and%20Perks/Sabbatical.md)
 * [New Parent Leave](https://github.com/latticemarkets/employee-handbook/blob/master/Benefits%20and%20Perks/New%20Parent%20Leave.md)
 * [Other Protected Absences](https://github.com/latticemarkets/employee-handbook/blob/master/Benefits%20and%20Perks/Other%20Protected%20Absences.md)
+
+## Engineering Practices and Guidelines
+* [Scala - Guidelines]()
+* [Scala - Best Practices]()
+* [Javascript - Guidelines]()
+* [Javascript - Best Practices]()
+* [Unit Testing - Best Practices]()
